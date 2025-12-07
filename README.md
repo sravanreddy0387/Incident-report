@@ -16,7 +16,7 @@ This application allows users to view and manage incident reports. It is built u
 
 2. Navigate to the project directory:
    ```bash
-   cd incident-report
+   cd Incident-report
    ```
 
 3. Install the dependencies:
